@@ -2,6 +2,20 @@
 "allmovie":
 [
 {
+"gen" : "nayhtoonaing,myanmarmovies",
+"title" : " ထစ်ချုန်းမိုးနှင့်အပြိုင်",
+"date" : "2010",
+"cover" : "https://i.ytimg.com/vi/HgRw7MX-dbY/maxresdefault.jpg",
+"image" : "https://i.ytimg.com/vi/HgRw7MX-dbY/maxresdefault.jpg",
+"length" : "1hr 55min",
+"qual" : "1080p",
+"size" : "711 MB",
+"video" : "https://www.youtube.com/watch?v=HgRw7MX-dbY",
+"vol" : "သရုပ်ဆောင်များ - နေထူးနိုင်၊ မိုးသက်နိုင်၊ လှအဉ္ဇလီတင့်၊ ဧကရီဖြိုးမြတ်
+ဒါရိုက်တာ - ဇော်ထွန်း"
+}
+,
+{
 "gen" : "action,horror",
 "title" : "Kwee Nay Htoo Naing",
 "date" : "2010",
