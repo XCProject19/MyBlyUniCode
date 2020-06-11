@@ -2,39 +2,11 @@
 "allmovie":
 [
 {
-"gen" : "nayhtoonaing,myanmarmovies",
-"title" : " ထစ်ချုန်းမိုးနှင့်အပြိုင်",
-"date" : "2010",
-"cover" : "https://i.ytimg.com/vi/HgRw7MX-dbY/maxresdefault.jpg",
-"image" : "https://i.ytimg.com/vi/HgRw7MX-dbY/maxresdefault.jpg",
-"length" : "1hr 55min",
-"qual" : "1080p",
-"size" : "711 MB",
-"video" : "https://www.youtube.com/watch?v=HgRw7MX-dbY",
-"vol" : "သရုပ်ဆောင်များ - နေထူးနိုင်၊ မိုးသက်နိုင်၊ လှအဉ္ဇလီတင့်၊ ဧကရီဖြိုးမြတ်
-ဒါရိုက်တာ - ဇော်ထွန်း"
-}
-,
-{
-"gen" : "action,horror",
-"title" : "Kwee Nay Htoo Naing",
-"date" : "2010",
-"cover" : "https://1.bp.blogspot.com/-FKz9JrOdBEY/XZoUhvtWu9I/AAAAAAAACPo/k-K4HTo7B8M4RlSGJX7asUFkNcZNdlFtgCLcBGAsYHQ/s1600/aakrosh-2010-film-97592bb7-0221-4638-a7c6-57e2bab1edc-resize-750.jpg",
-"image" : "https://1.bp.blogspot.com/-qriHmUKyrBU/XZoU-FLKRKI/AAAAAAAACPw/wMak4vgpM4Eb1bm5o3Sv71v3G9jbWoy_ACLcBGAsYHQ/s1600/MV5BMDMyYmI2OWItZWRjYi00ODMyLWJkZWUtZTJjY2M0MjViMzdmXkEyXkFqcGdeQXVyNDUzOTQ5MjY%2540._V1_.jpg",
-"length" : "1hr 55min",
-"qual" : "1080p",
-"size" : "711 MB",
-"video" : "https://www.youtube.com/watch?v=HgRw7MX-dbY",
-"vol" : "Aakrosh (2010)
-Action Horror"
-}
-,
-{
 "gen" : "horror,drama",
 "title" : "Aakrosh",
 "date" : "2010",
-"cover" : "https://1.bp.blogspot.com/-FKz9JrOdBEY/XZoUhvtWu9I/AAAAAAAACPo/k-K4HTo7B8M4RlSGJX7asUFkNcZNdlFtgCLcBGAsYHQ/s1600/aakrosh-2010-film-97592bb7-0221-4638-a7c6-57e2bab1edc-resize-750.jpg",
-"image" : "https://1.bp.blogspot.com/-qriHmUKyrBU/XZoU-FLKRKI/AAAAAAAACPw/wMak4vgpM4Eb1bm5o3Sv71v3G9jbWoy_ACLcBGAsYHQ/s1600/MV5BMDMyYmI2OWItZWRjYi00ODMyLWJkZWUtZTJjY2M0MjViMzdmXkEyXkFqcGdeQXVyNDUzOTQ5MjY%2540._V1_.jpg",
+"cover" : "https://1.bp.blogspot.com/-ajF18oYOax0/XuJGQ3_2vNI/AAAAAAAAP8U/tpTosrt5uiECPePfRgrKeSPIS1GhL37DACLcBGAsYHQ/s320/294-picsay.jpg",
+"image" : "https://1.bp.blogspot.com/-ajF18oYOax0/XuJGQ3_2vNI/AAAAAAAAP8U/tpTosrt5uiECPePfRgrKeSPIS1GhL37DACLcBGAsYHQ/s320/294-picsay.jpg",
 "length" : "1hr 55min",
 "qual" : "720p",
 "size" : "711 MB",
@@ -47,8 +19,8 @@ Horror Drama"
 "gen" : "drama,comedy",
 "title" : "Aakrosh",
 "date" : "2010",
-"cover" : "https://1.bp.blogspot.com/-FKz9JrOdBEY/XZoUhvtWu9I/AAAAAAAACPo/k-K4HTo7B8M4RlSGJX7asUFkNcZNdlFtgCLcBGAsYHQ/s1600/aakrosh-2010-film-97592bb7-0221-4638-a7c6-57e2bab1edc-resize-750.jpg",
-"image" : "https://1.bp.blogspot.com/-qriHmUKyrBU/XZoU-FLKRKI/AAAAAAAACPw/wMak4vgpM4Eb1bm5o3Sv71v3G9jbWoy_ACLcBGAsYHQ/s1600/MV5BMDMyYmI2OWItZWRjYi00ODMyLWJkZWUtZTJjY2M0MjViMzdmXkEyXkFqcGdeQXVyNDUzOTQ5MjY%2540._V1_.jpg",
+"cover" : "https://1.bp.blogspot.com/-ajF18oYOax0/XuJGQ3_2vNI/AAAAAAAAP8U/tpTosrt5uiECPePfRgrKeSPIS1GhL37DACLcBGAsYHQ/s320/294-picsay.jpg",
+"image" : "https://1.bp.blogspot.com/-ajF18oYOax0/XuJGQ3_2vNI/AAAAAAAAP8U/tpTosrt5uiECPePfRgrKeSPIS1GhL37DACLcBGAsYHQ/s320/294-picsay.jpg",
 "length" : "1hr 55min",
 "qual" : "Full HD",
 "size" : "711 MB",
@@ -61,8 +33,8 @@ Drama Comedy"
 "gen" : "comedy,action",
 "title" : "Aakrosh",
 "date" : "2010",
-"cover" : "https://1.bp.blogspot.com/-FKz9JrOdBEY/XZoUhvtWu9I/AAAAAAAACPo/k-K4HTo7B8M4RlSGJX7asUFkNcZNdlFtgCLcBGAsYHQ/s1600/aakrosh-2010-film-97592bb7-0221-4638-a7c6-57e2bab1edc-resize-750.jpg",
-"image" : "https://1.bp.blogspot.com/-qriHmUKyrBU/XZoU-FLKRKI/AAAAAAAACPw/wMak4vgpM4Eb1bm5o3Sv71v3G9jbWoy_ACLcBGAsYHQ/s1600/MV5BMDMyYmI2OWItZWRjYi00ODMyLWJkZWUtZTJjY2M0MjViMzdmXkEyXkFqcGdeQXVyNDUzOTQ5MjY%2540._V1_.jpg",
+"cover" : "https://1.bp.blogspot.com/-ajF18oYOax0/XuJGQ3_2vNI/AAAAAAAAP8U/tpTosrt5uiECPePfRgrKeSPIS1GhL37DACLcBGAsYHQ/s320/294-picsay.jpg",
+"image" : "https://1.bp.blogspot.com/-ajF18oYOax0/XuJGQ3_2vNI/AAAAAAAAP8U/tpTosrt5uiECPePfRgrKeSPIS1GhL37DACLcBGAsYHQ/s320/294-picsay.jpg",
 "length" : "1hr 55min",
 "qual" : "WEB-DL 720p",
 "size" : "711 MB",
